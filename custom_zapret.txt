@@ -2,7 +2,7 @@
 /.*cazino.*/
 /.*kazino.*/
 /.*pokerdom.*/
-*counter-strike.net*
+*myip.com*
 *000sb.ru*
 *000site.ru*
 *000vodka.bet*
