@@ -647520,7 +647520,6 @@
 ||queerintheworld.com^
 ||queerintheworldshop.com^
 ||queerion.com^
-||queerpig.com^
 ||queer-refugees.de^
 ||queersvit.org^
 ||queim3chao6u.live^
@@ -722391,7 +722390,6 @@
 ||sheetmusicrescue.com^
 ||sheet-music.ru^
 ||sheet-nursery.com^
-||she-expert.org^
 ||sheezy.art^
 ||shefdostal.org^
 ||sheffburek-fr.ru^
@@ -759699,7 +759697,6 @@
 ||stream-sport.ru^
 ||streamstart.online^
 ||streamtalk.online^
-||streamtape.com^
 ||streamtape.site^
 ||streamtm.online^
 ||streamtop.online^
@@ -925604,7 +925601,6 @@
 ||www.xlovecam.net^
 ||www.xlovecam.nl^
 ||www.xlove.com^
-||www.xlx.xxx^
 ||www.xmaloletki.com^
 ||www.xm.com^
 ||www.xmglobal.com^

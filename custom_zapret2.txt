@@ -741202,7 +741202,6 @@
 ||musical-encyclopedia.ru^
 ||musical-ghost.ru^
 ||musical.kz^
-||musical.ly^
 ||musicaloscar.ru^
 ||musical.theatermnro.com^
 ||musical-video.net^
@@ -894305,7 +894304,6 @@
 ||queerintheworld.com^
 ||queerintheworldshop.com^
 ||queerion.com^
-||queerpig.com^
 ||queer-refugees.de^
 ||queerrefugeeswelcome.de^
 ||queersvit.org^
@@ -979510,7 +979508,6 @@
 ||sheetmusicrescue.com^
 ||sheet-music.ru^
 ||sheet-nursery.com^
-||she-expert.org^
 ||sheezy.art^
 ||shefdostal.org^
 ||sheffburek-fr.ru^
@@ -1022377,7 +1022374,6 @@
 ||stream-sport.ru^
 ||streamstart.online^
 ||streamtalk.online^
-||streamtape.com^
 ||streamtape.site^
 ||streamtm.online^
 ||streamtop.online^
@@ -1205205,7 +1205201,6 @@
 ||www.xlovecam.net^
 ||www.xlovecam.nl^
 ||www.xlove.com^
-||www.xlx.xxx^
 ||www.xmaloletki.com^
 ||www.xm.com^
 ||www.xmglobal.com^
