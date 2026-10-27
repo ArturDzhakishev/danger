@@ -543811,7 +543811,6 @@
 ||inkaleidoskop.ru^
 ||inkapi.ru^
 ||inkard.pl^
-||inkbunny.net^
 ||inkdotdig.com^
 ||inked.com.ua^
 ||inkedin.com^
@@ -889859,7 +889858,6 @@
 ||pumpedpoi.shop^
 ||pumper.monster^
 ||pump-esybox.ru^
-||pump.fun^
 ||pump-info.ru^
 ||pumping.co.kr^
 ||pumpinity.life^
@@ -1056445,7 +1056443,6 @@
 ||tsmk-altai.ru^
 ||tsmk-shop.ru^
 ||tsmm.qqq-ttss.su^
-||tsmodelstube.com^
 ||tsmods.ru^
 ||t.smotri1080.online^
 ||tsmq.qqq-ttss.su^
@@ -1206880,7 +1206877,6 @@
 ||x-angels.com^
 ||xanifeo1.pro^
 ||xanigai2.pro^
-||xanimu.com^
 ||xanopoe2.pro^
 ||xanoxe.live^
 ||x-a-n.ru^
