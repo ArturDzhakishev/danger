@@ -667932,7 +667932,6 @@
 ||link.ge^
 ||linkgoto.click^
 ||linkheed.com^
-||linkin.bio^
 ||linkinparkclub.ru^
 ||linkinversiones.com.ar^
 ||link-investments.site^
@@ -754797,10 +754796,6 @@
 ||nintendo.ch^
 ||nintendo.co.jp^
 ||nintendo.co.kr^
-||nintendo.com^
-||nintendo.com.au^
-||nintendo.com.hk^
-||nintendo.com.pt^
 ||nintendo.co.uk^
 ||nintendo.co.za^
 ||nintendo.de^
@@ -760631,7 +760626,6 @@
 ||nudist.zadniza.com^
 ||nudliar.com^
 ||nudmod.com^
-||nudogram.com^
 ||nudography.life^
 ||nudostar.com^
 ||nudostar.tv^
@@ -846331,7 +846325,6 @@
 ||play-new.ru^
 ||playngocat.top^
 ||playngo.live^
-||playnintendo.com^
 ||play-nitro-casino.777caz.buzz^
 ||play-nodep.com^
 ||play-nodep.top^
@@ -955415,7 +955408,6 @@
 ||ru.top10slotsgames.rent^
 ||ru.top-21.com^
 ||ru.top50vpn.com^
-||ru.topcams.tv^
 ||ru.top-casino-bonus.help^
 ||ru.topcasinoexpert.club^
 ||ru.topcasinoland.info^
